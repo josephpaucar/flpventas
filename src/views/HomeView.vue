@@ -4,7 +4,7 @@
 <template>
   <main>
     <div class="about">
-      <h1 class="text-3xl font-bold underline">This is the home page</h1>
+      <h1 class="text-3xl font-bold text-flp-dark font-signika">Cuidado corporal</h1>
     </div>
   </main>
 </template>
